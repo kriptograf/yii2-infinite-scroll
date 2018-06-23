@@ -12,7 +12,6 @@ including twitter-style manual trigger, local scroll in overflow div, masonry in
 At the moment this extention only supports v2.x of infinite-scroll plugin.
 
 ## Resources
- * Yii2 [extension page](http://www.yiiframework.com/extension/yii2-infinite-scroll)
  * Infinite-Scroll jQuery plugin [documentation](https://github.com/paulirish/infinite-scroll)
 
 ## Installation
